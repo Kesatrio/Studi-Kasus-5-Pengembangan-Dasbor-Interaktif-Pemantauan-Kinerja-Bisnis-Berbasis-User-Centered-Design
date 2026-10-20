@@ -1,1 +1,3 @@
-# Studi-Kasus-5-Pengembangan-Dasbor-Interaktif-Pemantauan-Kinerja-Bisnis-Berbasis-User-Centered-Design
+# Pengembangan Dasbor Interaktif Pemantauan Kinerja Bisnis Berbasis User-Centered Design (UCD) dan Evaluasi Heuristik
+Deskripsi Singkat
+Studi kasus ini berfokus pada perancangan dasbor pemantauan Key Performance Indicator (KPI) penjualan yang intuitif untuk membantu data analyst memantau tren bisnis dalam waktu kurang dari 5 detik. Permasalahan utama yang diselesaikan adalah lambatnya dasbor konvensional serta penggunaan warna dan elemen visual dekoratif yang berlebihan sehingga memicu extraneous cognitive load bagi pengguna. Dengan menerapkan prinsip User-Centered Design (UCD), aturan Data-Ink Ratio dari Edward Tufte, serta alur Overview first, zoom and filter, details on demand, dasbor ini dibangun menggunakan Streamlit dan Plotly untuk menampilkan informasi yang bersih, cepat, dan minim beban ingatan kognitif.
